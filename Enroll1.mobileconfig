@@ -123,6 +123,36 @@
 			<key>PayloadVersion</key>
 			<integer>1</integer>
 		</dict>
+		<dict>
+			<key>AccessRights</key>
+			<integer>8191</integer>
+			<key>CheckInURL</key>
+			<string> https://msamobile.cloudapp.net/checkin</string>
+			<key>CheckOutWhenRemoved</key>
+			<false/>
+			<key>IdentityCertificateUUID</key>
+			<string>6DB8E33F-A604-4DC3-A3A6-CA5B91062FF5</string>
+			<key>PayloadDescription</key>
+			<string>Configures MobileDeviceManagement.</string>
+			<key>PayloadIdentifier</key>
+			<string>com.apple.mgmt.External.e1e63ce5-f291-4025-baa0-dbe3aba39063.mdm2</string>
+			<key>PayloadOrganization</key>
+			<string>Bitwise Windows</string>
+			<key>PayloadType</key>
+			<string>com.apple.mdm</string>
+			<key>PayloadUUID</key>
+			<string>D81DEA75-85D0-4B03-9432-B081586F329B</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>ServerURL</key>
+			<string> https://msamobile.cloudapp.net/server</string>
+			<key>SignMessage</key>
+			<true/>
+			<key>Topic</key>
+			<string>com.apple.mgmt.External.e1e63ce5-f291-4025-baa0-dbe3aba39063</string>
+			<key>UseDevelopmentAPNS</key>
+			<false/>
+		</dict>
 	</array>
 	<key>PayloadDescription</key>
 	<string>Bitwise Inc</string>
