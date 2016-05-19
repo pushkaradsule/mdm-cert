@@ -127,7 +127,7 @@
 			<key>AccessRights</key>
 			<integer>8191</integer>
 			<key>CheckInURL</key>
-			<string> https://msamobile.cloudapp.net/checkin</string>
+			<string>https://msamobile.cloudapp.net/checkin</string>
 			<key>CheckOutWhenRemoved</key>
 			<false/>
 			<key>IdentityCertificateUUID</key>
@@ -145,7 +145,7 @@
 			<key>PayloadVersion</key>
 			<integer>1</integer>
 			<key>ServerURL</key>
-			<string> https://msamobile.cloudapp.net/server</string>
+			<string>https://msamobile.cloudapp.net/server</string>
 			<key>SignMessage</key>
 			<true/>
 			<key>Topic</key>
