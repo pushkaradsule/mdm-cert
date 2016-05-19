@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>Password</key>
+			<string>123456</string>
+			<key>PayloadCertificateFileName</key>
+			<string>pushkar device</string>
+			<key>PayloadContent</key>
+			<data>
+			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
+			ESYxaJsEFFHLzhDC0xuC5yUb7jHLTpdQTjrH
+			</data>
+			<key>PayloadDescription</key>
+			<string>Provides device authentication (certificate or identity).</string>
+			<key>PayloadDisplayName</key>
+			<string>pushkar device</string>
+			<key>PayloadIdentifier</key>
+			<string>com.apple.mgmt.External.e1e63ce5-f291-4025-baa0-dbe3aba39063.credential1</string>
+			<key>PayloadOrganization</key>
+			<string>Bitwise Windows</string>
+			<key>PayloadType</key>
+			<string>com.apple.security.pkcs12</string>
+			<key>PayloadUUID</key>
+			<string>6DB8E33F-A604-4DC3-A3A6-CA5B91062FF5</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>AccessRights</key>
+			<integer>8191</integer>
+			<key>CheckInURL</key>
+			<string> https://msamobile.cloudapp.net/checkin</string>
+			<key>CheckOutWhenRemoved</key>
+			<false/>
+			<key>IdentityCertificateUUID</key>
+			<string>6DB8E33F-A604-4DC3-A3A6-CA5B91062FF5</string>
+			<key>PayloadDescription</key>
+			<string>Configures MobileDeviceManagement.</string>
+			<key>PayloadIdentifier</key>
+			<string>com.apple.mgmt.External.e1e63ce5-f291-4025-baa0-dbe3aba39063.mdm2</string>
+			<key>PayloadOrganization</key>
+			<string>Bitwise Windows</string>
+			<key>PayloadType</key>
+			<string>com.apple.mdm</string>
+			<key>PayloadUUID</key>
+			<string>D81DEA75-85D0-4B03-9432-B081586F329B</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>ServerURL</key>
+			<string> https://msamobile.cloudapp.net/server</string>
+			<key>SignMessage</key>
+			<true/>
+			<key>Topic</key>
+			<string>com.apple.mgmt.External.e1e63ce5-f291-4025-baa0-dbe3aba39063</string>
+			<key>UseDevelopmentAPNS</key>
+			<false/>
+		</dict>
+	</array>
+	<key>PayloadDescription</key>
+	<string>Profile description.</string>
+	<key>PayloadDisplayName</key>
+	<string>MsaEnroll</string>
+	<key>PayloadIdentifier</key>
+	<string>com.apple.mgmt.External.e1e63ce5-f291-4025-baa0-dbe3aba39063</string>
+	<key>PayloadOrganization</key>
+	<string>Bitwise Windows</string>
+	<key>PayloadRemovalDisallowed</key>
+	<false/>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>A5DDFB0C-07C7-4DFE-8B76-E80A4B04227B</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>
