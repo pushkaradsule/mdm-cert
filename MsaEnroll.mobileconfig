@@ -5,6 +5,90 @@
 	<key>PayloadContent</key>
 	<array>
 		<dict>
+			<key>PayloadDescription</key>
+			<string></string>
+			<key>PayloadDisplayName</key>
+			<string>Restrictions</string>
+			<key>PayloadIdentifier</key>
+			<string>com.apple.mgmt.External.e1e63ce5-f291-4025-baa0-dbe3aba39063.restrictions1</string>
+			<key>PayloadOrganization</key>
+			<string>Bitwise Windows</string>
+			<key>PayloadType</key>
+			<string>com.apple.applicationaccess</string>
+			<key>PayloadUUID</key>
+			<string>C4AD050C-4963-4F27-9FE7-57F39C8B09B9</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>allowAddingGameCenterFriends</key>
+			<true/>
+			<key>allowAppInstallation</key>
+			<true/>
+			<key>allowAssistant</key>
+			<true/>
+			<key>allowAssistantWhileLocked</key>
+			<true/>
+			<key>allowBookstoreErotica</key>
+			<true/>
+			<key>allowCamera</key>
+			<false/>
+			<key>allowCloudBackup</key>
+			<true/>
+			<key>allowCloudDocumentSync</key>
+			<true/>
+			<key>allowDiagnosticSubmission</key>
+			<true/>
+			<key>allowExplicitContent</key>
+			<true/>
+			<key>allowGlobalBackgroundFetchWhenRoaming</key>
+			<true/>
+			<key>allowInAppPurchases</key>
+			<true/>
+			<key>allowMultiplayerGaming</key>
+			<true/>
+			<key>allowPassbookWhileLocked</key>
+			<true/>
+			<key>allowPhotoStream</key>
+			<true/>
+			<key>allowSafari</key>
+			<true/>
+			<key>allowScreenShot</key>
+			<true/>
+			<key>allowSharedStream</key>
+			<true/>
+			<key>allowUntrustedTLSPrompt</key>
+			<true/>
+			<key>allowVideoConferencing</key>
+			<true/>
+			<key>allowVoiceDialing</key>
+			<true/>
+			<key>allowYouTube</key>
+			<true/>
+			<key>allowiTunes</key>
+			<true/>
+			<key>forceEncryptedBackup</key>
+			<false/>
+			<key>forceITunesStorePasswordEntry</key>
+			<false/>
+			<key>ratingApps</key>
+			<integer>1000</integer>
+			<key>ratingMovies</key>
+			<integer>1000</integer>
+			<key>ratingRegion</key>
+			<string>us</string>
+			<key>ratingTVShows</key>
+			<integer>1000</integer>
+			<key>safariAcceptCookies</key>
+			<integer>2</integer>
+			<key>safariAllowAutoFill</key>
+			<true/>
+			<key>safariAllowJavaScript</key>
+			<true/>
+			<key>safariAllowPopups</key>
+			<true/>
+			<key>safariForceFraudWarning</key>
+			<false/>
+		</dict>
+		<dict>
 			<key>Password</key>
 			<string>123456</string>
 			<key>PayloadCertificateFileName</key>
@@ -87,7 +171,7 @@
 			<key>PayloadDisplayName</key>
 			<string>pushkar device</string>
 			<key>PayloadIdentifier</key>
-			<string>com.apple.mgmt.External.e1e63ce5-f291-4025-baa0-dbe3aba39063.credential1</string>
+			<string>com.apple.mgmt.External.e1e63ce5-f291-4025-baa0-dbe3aba39063.credential2</string>
 			<key>PayloadOrganization</key>
 			<string>Bitwise Windows</string>
 			<key>PayloadType</key>
@@ -103,13 +187,13 @@
 			<key>CheckInURL</key>
 			<string>https://13.76.84.89/checkin</string>
 			<key>CheckOutWhenRemoved</key>
-			<false/>
+			<true/>
 			<key>IdentityCertificateUUID</key>
 			<string>6DB8E33F-A604-4DC3-A3A6-CA5B91062FF5</string>
 			<key>PayloadDescription</key>
 			<string>Configures MobileDeviceManagement.</string>
 			<key>PayloadIdentifier</key>
-			<string>com.apple.mgmt.External.e1e63ce5-f291-4025-baa0-dbe3aba39063.mdm2</string>
+			<string>com.apple.mgmt.External.e1e63ce5-f291-4025-baa0-dbe3aba39063.mdm3</string>
 			<key>PayloadOrganization</key>
 			<string>Bitwise Windows</string>
 			<key>PayloadType</key>
